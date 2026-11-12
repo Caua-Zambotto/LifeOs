@@ -1,0 +1,85 @@
+{
+  "format": "lifeos-fichas",
+  "version": 1,
+  "plans": [
+    {
+      "name": "Treino A – Inferiores + Abdômen",
+      "weekdays": [1],
+      "exercises": [
+        { "name": "Agachamento com peso do corpo (aquecimento)", "sets": 4, "reps": 15, "rest": 45, "video": "https://www.youtube.com/results?search_query=agachamento+peso+do+corpo+execucao" },
+        { "name": "Agachamento livre", "sets": 4, "reps": 15, "rest": 60, "video": "https://www.youtube.com/results?search_query=agachamento+livre+barra+execucao+correta" },
+        { "name": "Leg press 45", "sets": 4, "reps": 15, "rest": 45, "video": "https://www.youtube.com/results?search_query=leg+press+45+execucao+correta" },
+        { "name": "Cadeira extensora", "sets": 4, "reps": 15, "rest": 45, "video": "https://www.youtube.com/results?search_query=cadeira+extensora+execucao+correta" },
+        { "name": "Levantamento terra (pirâmide; descanso 1–3 min)", "sets": 4, "repsList": [15, 12, 10, 8], "rest": 120, "video": "https://www.youtube.com/results?search_query=levantamento+terra+deadlift+execucao+correta" },
+        { "name": "Bi-set 1/2: Cadeira abdutora (sem pausa)", "sets": 4, "reps": 15, "rest": 0, "video": "https://www.youtube.com/results?search_query=cadeira+abdutora+execucao" },
+        { "name": "Bi-set 2/2: Panturrilha em pé", "sets": 4, "reps": 15, "rest": 45, "video": "https://www.youtube.com/results?search_query=panturrilha+em+pe+execucao+correta" },
+        { "name": "Abdominal Tabata (8 rodadas de 20s forte / 10s pausa)", "sets": 2, "reps": 8, "rest": 180, "video": "https://www.youtube.com/results?search_query=abdominal+tabata+treino" }
+      ]
+    },
+    {
+      "name": "Treino B – Peito, Ombro e Bíceps",
+      "weekdays": [2],
+      "exercises": [
+        { "name": "Supino reto com halteres (pirâmide; descanso 1–3 min)", "sets": 4, "repsList": [15, 12, 10, 8], "rest": 120, "video": "https://www.youtube.com/results?search_query=supino+reto+com+halteres+execucao" },
+        { "name": "Supino inclinado com halteres", "sets": 4, "reps": 15, "rest": 90, "video": "https://www.youtube.com/results?search_query=supino+inclinado+com+halteres+execucao" },
+        { "name": "Voador (crossover na polia alta)", "sets": 4, "reps": 15, "rest": 90, "video": "https://www.youtube.com/results?search_query=crossover+polia+alta+execucao" },
+        { "name": "Elevação frontal com halteres", "sets": 4, "reps": 15, "rest": 90, "video": "https://www.youtube.com/results?search_query=elevacao+frontal+com+halteres+execucao" },
+        { "name": "Elevação lateral com halteres", "sets": 4, "reps": 15, "rest": 90, "video": "https://www.youtube.com/results?search_query=elevacao+lateral+com+halteres+execucao+correta" },
+        { "name": "Rosca bíceps na barra W", "sets": 4, "reps": 15, "rest": 90, "video": "https://www.youtube.com/results?search_query=rosca+biceps+barra+W+execucao" },
+        { "name": "Bíceps concentrado", "sets": 4, "reps": 15, "rest": 90, "video": "https://www.youtube.com/results?search_query=rosca+concentrada+execucao" }
+      ]
+    },
+    {
+      "name": "Corrida intervalada 1:1 moderado (terça)",
+      "weekdays": [2],
+      "exercises": [
+        { "name": "Aquecimento: trote leve Z1 – 5 min", "sets": 1, "reps": 1, "rest": 0 },
+        { "name": "Intervalo: 1 min correndo Z3 + 1 min caminhando Z1", "sets": 15, "reps": 1, "rest": 0 },
+        { "name": "Desaquecimento: leve Z1 – 5 min", "sets": 1, "reps": 1, "rest": 0 }
+      ]
+    },
+    {
+      "name": "Treino C – Costas e Tríceps",
+      "weekdays": [3],
+      "exercises": [
+        { "name": "Puxada alta (polia ou máquina)", "sets": 4, "reps": 15, "rest": 120, "video": "https://www.youtube.com/results?search_query=puxada+alta+polia+execucao+correta" },
+        { "name": "Remada baixa", "sets": 4, "reps": 15, "rest": 90, "video": "https://www.youtube.com/results?search_query=remada+baixa+execucao+correta" },
+        { "name": "Pulldown em dropset (até a falha, baixa o peso e continua)", "sets": 4, "reps": 15, "rest": 90, "video": "https://www.youtube.com/results?search_query=pulldown+bracos+estendidos+polia+execucao" },
+        { "name": "Remada supinada", "sets": 4, "reps": 15, "rest": 45, "video": "https://www.youtube.com/results?search_query=remada+supinada+execucao" },
+        { "name": "Tríceps na barra reta em dropset", "sets": 4, "reps": 15, "rest": 45, "video": "https://www.youtube.com/results?search_query=triceps+barra+reta+polia+execucao" },
+        { "name": "Peck deck invertido (crucifixo invertido)", "sets": 4, "reps": 15, "rest": 45, "video": "https://www.youtube.com/results?search_query=crucifixo+invertido+peck+deck+execucao" }
+      ]
+    },
+    {
+      "name": "Corrida intervalada 2:2 vigoroso (quinta)",
+      "weekdays": [4],
+      "exercises": [
+        { "name": "Aquecimento: trote leve Z1 – 5 min", "sets": 1, "reps": 1, "rest": 0 },
+        { "name": "Intervalo: 2 min correndo forte Z4 + 2 min caminhando Z1", "sets": 6, "reps": 1, "rest": 0 },
+        { "name": "Desaquecimento: leve Z1 – 5 min", "sets": 1, "reps": 1, "rest": 0 }
+      ]
+    },
+    {
+      "name": "Treino D – Peito, Ombro e Bíceps",
+      "weekdays": [5],
+      "exercises": [
+        { "name": "Supino reto com halteres (pirâmide; descanso 1–3 min)", "sets": 4, "repsList": [15, 12, 10, 8], "rest": 120, "video": "https://www.youtube.com/results?search_query=supino+reto+com+halteres+execucao" },
+        { "name": "Supino inclinado com halteres", "sets": 4, "reps": 15, "rest": 90, "video": "https://www.youtube.com/results?search_query=supino+inclinado+com+halteres+execucao" },
+        { "name": "Voador (crossover na polia alta)", "sets": 4, "reps": 15, "rest": 90, "video": "https://www.youtube.com/results?search_query=crossover+polia+alta+execucao" },
+        { "name": "Elevação frontal com halteres", "sets": 4, "reps": 15, "rest": 90, "video": "https://www.youtube.com/results?search_query=elevacao+frontal+com+halteres+execucao" },
+        { "name": "Elevação lateral com halteres", "sets": 4, "reps": 15, "rest": 90, "video": "https://www.youtube.com/results?search_query=elevacao+lateral+com+halteres+execucao+correta" },
+        { "name": "Rosca bíceps na barra W", "sets": 4, "reps": 15, "rest": 90, "video": "https://www.youtube.com/results?search_query=rosca+biceps+barra+W+execucao" },
+        { "name": "Bíceps concentrado", "sets": 4, "reps": 15, "rest": 90, "video": "https://www.youtube.com/results?search_query=rosca+concentrada+execucao" }
+      ]
+    },
+    {
+      "name": "Corrida contínua moderada (sábado)",
+      "weekdays": [6],
+      "exercises": [
+        { "name": "Aquecimento: leve Z1 – 5 min", "sets": 1, "reps": 1, "rest": 0 },
+        { "name": "Corrida contínua Z3 – 25 min", "sets": 1, "reps": 1, "rest": 0 },
+        { "name": "Desaquecimento: leve Z1 – 5 min", "sets": 1, "reps": 1, "rest": 0 }
+      ]
+    }
+  ]
+}

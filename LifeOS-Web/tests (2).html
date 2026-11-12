@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LifeOS · Testes</title>
+  <style>
+    body { font: 14px/1.5 system-ui, sans-serif; margin: 24px; background: #f5f5f7; color: #111; }
+    h1 { font-size: 20px; }
+    .ok { color: #15803d; } .fail { color: #b91c1c; font-weight: 600; }
+    pre { white-space: pre-wrap; background: #fff; padding: 12px; border-radius: 10px; }
+    #summary { font-size: 18px; font-weight: 700; margin: 12px 0; }
+  </style>
+</head>
+<body>
+  <h1>LifeOS — testes automatizados</h1>
+  <p>Executados no próprio navegador. Não alteram seus dados (usam memória ou um banco de teste).</p>
+  <div id="summary">Executando…</div>
+  <pre id="out"></pre>
+  <script type="module" src="js/tests.js"></script>
+</body>
+</html>
